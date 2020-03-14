@@ -103,7 +103,7 @@ main{
     margin-right: 10%;
 }
 th{
-    padding: 0.4%;
+    padding: 0.9%;
 }
 
 .humans-img{
@@ -193,4 +193,28 @@ a:visited {
 }
 .a-2:visited {
     color: black;
+}
+.sell-2{
+    width: 100%;
+    height: 550px;
+    background-color: rgb(255, 255, 255);
+    max-width: 100%;
+}
+.form{
+    position: absolute;
+    top: 25%;
+}
+.sell-text-3{
+    position: absolute;
+    font-size: 300%;
+    font-style: italic;
+    padding-top: 3%;
+    left: 43%;
+    font-weight: bolder;
+    color: black;
+}
+.buy-text-form{
+    position: absolute;
+    top: 60%;
+    left: 1%;
 }
