@@ -66,10 +66,8 @@ main{
 }
 .circle {
     position: absolute;
-    width: 27%; 
-    height: 19%;
-    -width: 350px; 
-    -height: 350px;
+    width: 350px; 
+    height: 350px;
     background: #FFBD00;
     border-radius: 50%;
     right: 10%;
