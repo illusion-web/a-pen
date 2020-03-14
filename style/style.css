@@ -11,10 +11,11 @@ body{
 }
 /* Шапка */
 .header{
-    background-image: url(/img/fon1.jpg);
+    background-image: url(../img/fon1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     position: relative;
+    max-width: 100%;
     width: 100%;
     height: 620px;
     margin-top: 0%;
@@ -37,6 +38,7 @@ main{
     width: 100%;
     height: 620px;
     background-color: rgb(255, 255, 255);
+    max-width: 100%;
 }
 .sell-text{
     position: absolute;
@@ -117,6 +119,7 @@ th{
 }
 .karta{
     position: relative;
+    max-width: 100%;
     width: 100%;
     height: 620px;
     background-color: rgb(255, 255, 255);
@@ -141,7 +144,7 @@ th{
     position: relative;
     max-width: 100%;
     height: 120px;
-    background-image: url(/img/fon1.jpg);
+    background-image: url(../img/fon1.jpg);
     background-size: 100%;
     padding-bottom: 0%;
 }
